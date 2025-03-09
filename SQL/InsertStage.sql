@@ -1,7 +1,7 @@
 USE [dbVideoGameSales]
 GO
 
--- Habilita as opções avançadas e as consultas distribuídas
+-- Habilita as opï¿½ï¿½es avanï¿½adas e as consultas distribuï¿½das
 EXEC sp_configure 'show advanced options', 1;
 RECONFIGURE;
 EXEC sp_configure 'Ad Hoc Distributed Queries', 1;
