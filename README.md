@@ -2,6 +2,8 @@
 
 Analise dados de vendas de mais de 16.500 jogos.
 
+Link base origem: https://www.kaggle.com/datasets/asaniczka/video-game-sales-2024/data
+
 # Passo a Passo ETL
 
 00. [Instalação SQL Server e Banco de dados]()
