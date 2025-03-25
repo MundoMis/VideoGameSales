@@ -14,3 +14,4 @@ Link base origem: https://www.kaggle.com/datasets/asaniczka/video-game-sales-202
 00. [Criação da Tabela StgVideoGameSales](./SQL/CreateStgVideoGameSales.sql)
 00. [Import de dados StgVideoGameSales com BULK INSERT](./SQL/InsertStage.sql)
 00. [Criação da Tabela HistVideoGameSales](./SQL/CreateTabelaHistVideoGameSales.sql)
+00. [Import de dados na Tabela HistVideoGameSales](./SQL/CInsertDadosTabelaHistVideoGameSales.sql)
