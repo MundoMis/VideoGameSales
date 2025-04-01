@@ -20,4 +20,5 @@ Analise dados de vendas de mais de 16.500 jogos.
 ## Dimensão
 
 00. [Seleção de dados para DimNomeJogo](./SQL/AjusteDadosDimNomeJogo.sql)
-00. [Criação Table DimNomeJogo](./SQL/
+00. [Criação Table DimNomeJogo](./SQL/CreateTabelaDimNomeJogo.sql)
+00. [Inserir dados na DimNomeJogo](./SQL/InsertDimConsole.sql)

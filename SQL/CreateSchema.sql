@@ -1,12 +1,3 @@
-<<<<<<< HEAD
-Use [dbVideoGameSales]
-go
-CREATE SCHEMA Stage; -- Dado bruto
-go
-CREATE SCHEMA Historico; -- Dado bruto + Coluna Controle + tipos tratados
-go
-CREATE SCHEMA DataMart; -- Fatos e dimensoes
-=======
 USE [dbVideoGameSales]
 GO
 SET ANSI_NULLS ON
@@ -34,4 +25,3 @@ BEGIN
     EXEC('CREATE SCHEMA DataMart');
     /*DataMart: Bases com apenas datas, Ids e campos calculados(Soma, Quantidade e Etc) */
 END
->>>>>>> 3af3d88c6d0c1124e4f5cde7731ecc8bc0d8d3b0
