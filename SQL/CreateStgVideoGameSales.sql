@@ -13,5 +13,4 @@ CREATE TABLE [dbVideoGameSales].[Stage].[StgVideoGameSales](
 ,[other_sales] VARCHAR(MAX)
 ,[release_date] VARCHAR(MAX)
 ,[last_update] VARCHAR(MAX)
-
 );
